@@ -164,14 +164,14 @@ ul, ol{
 
 /* Aside */
 
-.aside-box{
+.aside-box  .salom {
   padding-top: 80px;
   display: flex;
   justify-content: space-between;
 }
 
 .right{
-  margin-left: 100px;
+  margin-left: 40px;
 }
 
 .right h3{
