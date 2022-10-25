@@ -164,7 +164,7 @@ ul, ol{
 
 /* Aside */
 
-.aside-box  .salom {
+.aside-box  .aside-box-list {
   padding-top: 80px;
   display: flex;
   justify-content: space-between;
@@ -184,13 +184,14 @@ ul, ol{
 
 .right p{
   padding-top: 20px;
+  margin-bottom: 20px;
   height: 120px;
   width: 450px;
   border-radius: nullpx;
 }
 
 .aside-link{
-  margin: 80px 0px;
+  margin: 10px 0px;
   text-align: center;
   border: 2px solid #458FF6;
   padding: 10px 30px;
@@ -202,3 +203,14 @@ ul, ol{
   color: #fff;
   background-color: #458FF6;
 }
+
+
+.carousel{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.slide-img{
+  border-radius: 50%;
+}
+
